@@ -43,7 +43,16 @@
   <a href="mailto:zhouchenhao2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
   </a>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmorninghao/itsmorninghao/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmorninghao/itsmorninghao/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/itsmorninghao/itsmorninghao/output/github-contribution-grid-snake.svg" />
+  </picture>
+
 </p>
+
+
 
 > “努力让每个项目都简洁又高效”  
 > – MorningHao
