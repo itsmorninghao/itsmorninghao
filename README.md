@@ -1,6 +1,6 @@
-# 你好，我是 MorningHao（itsmorninghao）👋
+# Hello, I'm MorningHao (itsmorninghao) 👋
 
-欢迎来到我的 GitHub 主页，我专注于前端与全栈应用开发，热衷于构建实用、高效、用户友好的项目。
+Welcome to my GitHub profile! I specialize in frontend and full-stack application development, and I'm passionate about building practical, efficient, and user-friendly projects.
 
 <!-- <p align="center">
   <a href="https://github.com/itsmorninghao">
@@ -54,5 +54,5 @@
 
 
 
-> “努力让每个项目都简洁又高效”  
+> "Strive to make every project simple and efficient"  
 > – MorningHao
