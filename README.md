@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I specialize in frontend and full-stack applicatio
   <img src="https://komarev.com/ghpvc/?username=itsmorninghao&label=Profile%20Views&style=flat-square" />
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmorninghao&layout=compact&langs_count=6&theme=transparent&hide_border=true"
     alt="Top Langs"
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I specialize in frontend and full-stack applicatio
     alt="GitHub Streak"
     width="96%"
   />
-</div>
+</div> -->
 
 <p align="center">
   <a href="https://morninghao.online">
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I specialize in frontend and full-stack applicatio
   <a href="https://github.com/itsmorninghao">
     <img src="https://img.shields.io/badge/GitHub-itsmorninghao-black?style=flat-square&logo=github" />
   </a>
-  <a href="mailto:zhouchenhao2003@gmail.com">
+  <a href="mailto:morning.haoo@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
   </a>
 
